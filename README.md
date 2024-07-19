@@ -1,6 +1,11 @@
 # Hotel-Reservation-Analysis-with-SQL-
 In this Project, i uses PosrgreSQL to answer the questions related to dataset. 
 
+Usage
+1. Load the Hotel Reservation Dataset_CLEAN.csv file into your SQL database.
+2. Execute the SQL queries in the   Hotel Reservation Analysis_ADEDOKUN.SQL notebook.
+3. Analyze the results and create visualizations if desired.
+
 #Overview:
 
 The hotel industry relies on data to make informed decisions and provide a better guest experience. In this project, i  work with a hotel reservation dataset to gain insights into guest preferences, booking trends, and other key factors that impact the hotel's operations. i use SQL to query and analyze the data, as well as answer specific questions about the dataset.
@@ -41,9 +46,3 @@ QUESTIONS?
 14. For reservations involving children, what is the most common room type, and what is the average price for that room type?
 15. Find the market segment type that generates the highest average price per room.
 
-Usage
-Hotel Reservation Analysis:
-
-Load the Hotel Reservation Dataset_CLEAN.csv file into your SQL database.
-Execute the SQL queries in the   Hotel Reservation Analysis_ADEDOKUN.SQL notebook.
-Analyze the results and create visualizations if desired.
